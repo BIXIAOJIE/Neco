@@ -1,7 +1,9 @@
 # Neco
 
-> 一个基于 node.js 的后端服务器
-![mark](http://q6auazi5s.bkt.clouddn.com/blog/20200228/H1FCg6c2SgQa.jpg?imageslim)
+> 一个基于 node.js 的后端服务器，项目的名字以一只奶牛猫名字命名 Neco
+
+![mark](http://q6auazi5s.bkt.clouddn.com/blog/20200228/nfxXpyCcdPA5.jpg?imageslim)
+
 ## 开源目的
 
 > 用于学习Node.js的 Authentication 和 Authorization,即授权和认证.主要在登录和注册模块中使用,同时我书写了两个中间件 
